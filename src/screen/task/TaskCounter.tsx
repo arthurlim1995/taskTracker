@@ -45,7 +45,6 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     marginBottom: 12,
   },
-
   card: {
     backgroundColor: 'white',
     padding: 10,
@@ -53,12 +52,10 @@ const styles = StyleSheet.create({
     width: '23%',
     alignItems: 'center',
   },
-
   number: {
     fontWeight: '700',
     fontSize: 16,
   },
-
   label: {
     fontSize: 12,
     color: '#6B7280',

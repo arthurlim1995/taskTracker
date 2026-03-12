@@ -31,11 +31,9 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     marginBottom: 10,
   },
-
   text: {
     color: 'white',
   },
-
   undo: {
     color: '#4F46E5',
     fontWeight: '700',
