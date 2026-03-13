@@ -126,25 +126,21 @@ const styles = StyleSheet.create({
     backgroundColor: '#F9FAFB',
     padding: 20,
   },
-
   title: {
     fontSize: 28,
     fontWeight: '700',
     marginBottom: 20,
   },
-
   section: {
     fontSize: 18,
     fontWeight: '600',
     marginBottom: 10,
   },
-
   statsRow: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     marginBottom: 10,
   },
-
   statCard: {
     backgroundColor: '#fff',
     padding: 20,
@@ -152,32 +148,26 @@ const styles = StyleSheet.create({
     width: '48%',
     alignItems: 'center',
   },
-
   statNumber: {
     fontSize: 24,
     fontWeight: '700',
   },
-
   statLabel: {
     color: '#6B7280',
   },
-
   taskItem: {
     backgroundColor: 'white',
     padding: 12,
     borderRadius: 10,
     marginBottom: 8,
   },
-
   taskTitle: {
     fontWeight: '700',
     fontSize: 15,
   },
-
   empty: {
     color: '#9CA3AF',
   },
-
   fab: {
     position: 'absolute',
     right: 20,
@@ -193,19 +183,16 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     marginVertical: 16,
   },
-
   quickActionBtn: {
     backgroundColor: '#E206EA',
     paddingVertical: 12,
     paddingHorizontal: 16,
     borderRadius: 12,
   },
-
   quickActionText: {
     color: 'white',
     fontWeight: '600',
   },
-
   recentCard: {
     flex: 1,
   },
